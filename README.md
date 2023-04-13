@@ -26,5 +26,5 @@ To run the app, follow these steps:
 This App has the following features:
 
 - Search weather based on location
-- The background changes based on wheather its Day or Night 
+- The background changes based on whether its Day or Night 
 - Taping the temperate will toggle between Celcius and Farenheit
